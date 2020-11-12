@@ -1,0 +1,10 @@
+{
+  "type": "material",
+  "name": "Uranium",
+  "description": "it is a simple uranium ore",
+  "hardness": "1",
+  "cost": 2.0,
+  "color": "000000",
+  "tier": 2,
+  "radioactivity": 100
+}
